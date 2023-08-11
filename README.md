@@ -5,15 +5,15 @@
 #### The interactive dashboard app explores the human Belly Button Biodiversity dataset that catalogs the microbes that colonize human navels.The datasets acquired in a study reveals that a small handful of microbial species called operational taxonomic units (OTUs) were present in more than 70% of the population while other known microbes were relatively rare.
 
 ### 1. D3 library was imported and used to read the data from the URL. The  following data were retrieved.
- ![1a](Results/Results_1a.png)
- ![1b](Results/Results_1b.png)
- ![1c](Results/Results_1c.png)
- ![1d](Results/Results_1d.png)
- ![1e](Results/Results_1e.png)
- ![1f](Results/Results_1f.png)
+ ![1a](Results/Results_1a.PNG)
+ ![1b](Results/Results_1b.PNG)
+ ![1c](Results/Results_1c.PNG)
+ ![1d](Results/Results_1d.PNG)
+ ![1e](Results/Results_1e.PNG)
+ ![1f](Results/Results_1f.PNG)
 
  ### 2. An interactive horizontal bar chart was created showing the top 10 OTUs. The chart updates and reflects the dataset of the 'id' selected from the dropdown menu.
-![2a](Results/Results_2a.png)
+![2a](Results/Results_2a.PNG)
 ![2b](Results/Results_2b.png)
 #### With hovering activated:
 ![2c](Results/Results_2c.png)
