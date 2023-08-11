@@ -1,6 +1,8 @@
 # Dashboard visualization
 ## Summary
 #### This is an exercise to demonstrate our skill in creating interactive data visualization dashboard using Plotly in JavaScript. The D3 library is also utilized to create the dashboard as a web application. The app is deployed at the following link-
+    
+    https://arefinster.github.io/belly-button-challenge/
 
 #### The interactive dashboard app explores the human Belly Button Biodiversity dataset that catalogs the microbes that colonize human navels.The datasets acquired in a study reveals that a small handful of microbial species called operational taxonomic units (OTUs) were present in more than 70% of the population while other known microbes were relatively rare.
 
